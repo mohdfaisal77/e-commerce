@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAWxD3rbwc6PHha1G45EgIQQnQ1GRzfSo0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23113216848</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ecommerce.eCommerce.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fooddeliveryapp-92b82</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fooddeliveryapp-92b82.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23113216848:ios:5f5db5b59c90fc758c7255</string>
+</dict>
+</plist>
